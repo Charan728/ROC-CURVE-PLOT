@@ -74,7 +74,7 @@ plt.show()
 
 ## Output:
 
-![Screenshot (3)](https://user-images.githubusercontent.com/78737336/169644303-307a00c5-5437-48cb-9445-15790a658e0e.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/102689666/169655742-7675599f-31c3-48ee-80c7-9d02a131fea6.png)
 
 
 
